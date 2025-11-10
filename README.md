@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nusma-rahman
+- 👋 Hi, I’m Nusma Rahman
 - 👀 I’m interested in statistical analysis, building machine learning and deep learning models
 - 🌱 I’m currently working on how to deploy deep learning models in Python
 - 😄 Pronouns: she/her
